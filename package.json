@@ -1,0 +1,25 @@
+{
+  "name": "discord-easy-template",
+  "description": "This README provides a guide for setting up a simple Discord bot using the `DiscordEasy` module. The bot is configured to use message commands and slash commands with basic intents.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virtual-Engine/Discord-easy-template.git"
+  },
+  "author": "zenith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Virtual-Engine/Discord-easy-template/issues"
+  },
+  "homepage": "https://github.com/Virtual-Engine/Discord-easy-template#readme",
+
+  "dependencies": {
+    "discord-easy": "^2.0.5",
+    "discord.js": "^14.16.3"
+  }
+}

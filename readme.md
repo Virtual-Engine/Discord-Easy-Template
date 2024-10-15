@@ -1,6 +1,6 @@
 # DiscordEasy Bot Setup
 
-This README provides a guide for setting up a simple Discord bot using the `DiscordEasy` module. The bot is configured to use message commands and slash commands with basic intents.
+This README provides a guide for setting up a simple Discord bot using the ***DiscordEasy*** module. The bot is configured to use message commands and slash commands with basic intents.
 
 ## Table of Contents
 
